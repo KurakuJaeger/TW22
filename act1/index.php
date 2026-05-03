@@ -37,7 +37,7 @@
                  <aside>
                     <section>
                         <h2 class="section-title"> About Me</h2>
-                        <p>Output-driven motivation with 2+ years of experience in an evolving emerging technologies</p>
+                        <p style ="font-size: 0.875rem; color: var(--text-secondary);">Output-driven motivation with 2+ years of experience in an evolving emerging technologies</p>
                     </section>
 
                     <section>
@@ -52,9 +52,9 @@
 
                     <section>
                         <h2 class="section-title">Education</h2>
-                        <div>
-                            <p>BSIT-WMA</p>
-                            <p>Far Eastern University Institute of Technology</p>
+                        <div style="margin-bottom: 1rem;">
+                            <p style="font-weight: 600; font-size: 0.875rem;">BSIT-WMA</p>
+                            <p style="font-style: 0.75rem; color: var(--text-muted)">Far Eastern University Institute of Technology</p>
                         </div>
                     </section>
                  </aside>
@@ -74,16 +74,16 @@
                                 <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
                             </ul>
                         </div>
-
-                        <div class="experience-header">
-                                <span class="job-title">Lorem, ipsum dolor.</span>
-                                <span class="date-badge">2020 - 2024</span>
-                        </div>
-                        
-                        <p class="comapany-name">Lorem, ipsum.</p>
-                        <ul class="bullet-points">
-                            <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis!</li>
-                        </ul>
+                        <div class="experience-item" style ="border-color: #f1f5f9">
+                            <div class="experience-header">
+                                    <span class="job-title">Lorem, ipsum dolor.</span>
+                                    <span class="date-badge">2020 - 2024</span>
+                            </div>
+                            
+                            <p class="company-name">Lorem, ipsum.</p>
+                            <ul class="bullet-points">
+                                <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis!</li>
+                            </ul>
                         </div>
                     </section>
 
@@ -104,8 +104,8 @@
             </div>
         </div>
 
-        <div class="no-print">
-            <button onclick="windows.print()">
+        <div style="margin-top: 2rem; text-align: center;" class="no-print">
+            <button onclick="window.print()" style="padding: 0.75rem; background: var(--dark-header); color: white; border: none; border-radius: 2rem; cursor: pointer; font-weight: 600;">
                 Download PDF
             </button>
         </div>
