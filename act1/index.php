@@ -92,7 +92,7 @@
                             </div>
                             <p class="company-name">PRISM</p>
                             <ul class="bullet-points">
-                                <li>Handles logistics operations for the company</li>
+                                <li>Handles logistics operations for the organization</li>
                                 <li>Coordinating with various departments to ensure smooth operations</li>
                             </ul>
                         </div>
