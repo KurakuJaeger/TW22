@@ -3,7 +3,7 @@
 $firstName = "Clark Wayne";
 $lastName = "Bagtas";
 $middleInitial = "D.";
-$grade = 95;
+$grade = 80;
 $ranking = "";
 $statusColor = "";
 
