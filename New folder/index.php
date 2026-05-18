@@ -2,73 +2,73 @@
 // 1. Define a multidimensional array containing 10 different people records
 $people = [
     [
-        "name" => "Alice Smith",
+        "name" => "Andrew De Jesus",
         "image" => "images/account.png",
         "age" => 21,
-        "birthday" => "August 14, 2004",
+        "birthday" => "April 19, 2005",
         "contact_number" => "09123456789"
     ],
     [
         "name" => "Clark Bagtas",
         "image" => "images/account.png",
         "age" => 20,
-        "birthday" => "December 05, 2005",
+        "birthday" => "October 15, 2005",
         "contact_number" => "09837623211"
     ],
     [
-        "name" => "Ethan Reyes",
+        "name" => "Trina Marielle Villoria",
         "image" => "images/account.png",
-        "age" => 22,
-        "birthday" => "March 22, 2004",
+        "age" => 20,
+        "birthday" => "November 9, 2005",
         "contact_number" => "09234567890"
     ],
     [
-        "name" => "Diana Prince",
+        "name" => "Jovs Francis Caburao",
         "image" => "images/account.png",
-        "age" => 23,
-        "birthday" => "October 11, 2002",
+        "age" => 22,
+        "birthday" => "May 14, 2004",
         "contact_number" => "09345678901"
     ],
     [
-        "name" => "Bruce Wayne",
+        "name" => "James Ivan Frondarina",
         "image" => "images/account.png",
-        "age" => 25,
-        "birthday" => "February 19, 2001",
+        "age" => 21,
+        "birthday" => "July 6, 2004",
         "contact_number" => "09456789012"
     ],
     [
-        "name" => "Fiona Gallagher",
+        "name" => "Mark Benedick Castro",
         "image" => "images/account.png",
         "age" => 20,
-        "birthday" => "May 03, 2006",
+        "birthday" => "October 15, 2005",
         "contact_number" => "09567890123"
     ],
     [
-        "name" => "George Santos",
+        "name" => "Kurt Hienrich Tarcena",
         "image" => "images/account.png",
         "age" => 21,
-        "birthday" => "July 30, 2004",
+        "birthday" => "May 9, 2005",
         "contact_number" => "09678901234"
     ],
     [
-        "name" => "Hannah Baker",
+        "name" => "Darryl Dela Cruz",
         "image" => "images/account.png",
-        "age" => 19,
-        "birthday" => "January 07, 2007",
+        "age" => 26,
+        "birthday" => "January 07, 2001",
         "contact_number" => "09789012345"
     ],
     [
-        "name" => "Ian Malcolm",
+        "name" => "Jen Raina Teodoro",
         "image" => "images/account.png",
-        "age" => 24,
-        "birthday" => "September 18, 2001",
+        "age" => 20,
+        "birthday" => "September 23, 2006",
         "contact_number" => "09890123456"
     ],
     [
-        "name" => "Julia Roberts",
+        "name" => "Maryclaire Jashley P. Dela Cruz",
         "image" => "images/account.png",
-        "age" => 22,
-        "birthday" => "November 12, 2003",
+        "age" => 20,
+        "birthday" => "February 27, 2006",
         "contact_number" => "09901234567"
     ]
 ];
